@@ -339,6 +339,12 @@ K Quad LVDS Driver
 F http://www.ti.com/lit/ds/symlink/sn65lvds391.pdf
 $ENDCMP
 #
+$CMP SN65LVDT348
+D Quad Receiver with -4 to 5V Common-mode Range, 560Mbps, SOIC-16
+K Quad LVDS Driver
+F http://www.ti.com/lit/ds/symlink/sn65lvdt348.pdf
+$ENDCMP
+#
 $CMP TB5D1MD
 D Quad differential PECL driver
 K differential PECL driver
