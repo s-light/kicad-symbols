@@ -327,6 +327,12 @@ K Quad LVDS Driver
 F http://www.ti.com/lit/ds/symlink/sn65lvds047.pdf
 $ENDCMP
 #
+$CMP SN65LVDS391
+D Quad LVDS High-Speed Differential Line Driver, 630Mbps, SOIC-16
+K Quad LVDS Driver
+F http://www.ti.com/lit/ds/symlink/sn65lvds391.pdf
+$ENDCMP
+#
 $CMP SN65LVDS1DBV
 D High-Speed Differential Line Driver, 630Mbps, SOT-23-5
 K LVDS Driver
