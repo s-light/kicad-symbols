@@ -341,7 +341,7 @@ $ENDCMP
 #
 $CMP SN65LVDT348
 D Quad Receiver with -4 to 5V Common-mode Range, 560Mbps, SOIC-16
-K Quad LVDS Driver
+K Quad LVDS Receiver
 F http://www.ti.com/lit/ds/symlink/sn65lvdt348.pdf
 $ENDCMP
 #
