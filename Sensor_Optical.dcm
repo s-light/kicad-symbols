@@ -36,6 +36,12 @@ K ambient light sensor i2c
 F https://docs.broadcom.com/docs/AV02-2315EN
 $ENDCMP
 #
+$CMP APDS-9960
+D digital rgb ambient light proximity and gesture sensor, i2c interface, 2.4-3.6V
+K ambient light rgb proximity gesture sensor i2c
+F https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960
+$ENDCMP
+#
 $CMP AS7261
 D Spectral Sensing Engine, 6-Channel XYZ Spectral_ID
 K 6-Channel XYZ Spectral_ID Device Electronic Shutter Smart Interface i2c uart
