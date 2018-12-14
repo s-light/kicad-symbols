@@ -38,7 +38,7 @@ $ENDCMP
 #
 $CMP APDS-9960
 D digital rgb ambient light proximity and gesture sensor, i2c interface, 2.4-3.6V
-K ambient light rgb proximity gesture sensor i2c
+K rgb ambient light proximity gesture sensor i2c
 F https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960
 $ENDCMP
 #
